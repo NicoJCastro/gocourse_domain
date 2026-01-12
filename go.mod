@@ -1,4 +1,4 @@
-module gocourse_domain
+module github.com/NicoJCastro/gocourse_domain
 
 go 1.25.1
 
